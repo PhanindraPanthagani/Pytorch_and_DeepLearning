@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Phanindra\\Anaconda3\\envs\\pytorch\\python.exe"
+    "python.pythonPath": "C:\\Users\\Phanindra\\Anaconda3\\envs\\pytorch\\python.exe",
+    "terminal.integrated.shell.windows":"C:\\Windows\\System32\\cmd.exe"
 }
